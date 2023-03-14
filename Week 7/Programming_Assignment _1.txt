@@ -1,0 +1,8 @@
+// Just copy and paste whole content of this file to nptel text box
+
+System.out.println(barr[n]);
+
+
+System.out.print((char)barr[n]);
+
+}
