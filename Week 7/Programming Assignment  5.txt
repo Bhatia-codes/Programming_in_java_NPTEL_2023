@@ -1,0 +1,19 @@
+//just copy and paste this all text into text box on nptel
+try{
+
+InputStreamReader r=new InputStreamReader(System.in);
+BufferedReader br=new BufferedReader(r);
+String number = br.readLine();
+
+int x = Integer.parseInt(number);
+
+System.out.print(x*x);
+i
+
+catch(Exception e)
+
+{
+
+System.out.print("Please enter valid data");
+
+}
