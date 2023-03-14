@@ -1,0 +1,11 @@
+int a,b,c,sum;
+
+Scanner s = new Scanner(System.in);
+
+a = s.nextInt();
+
+b = s.nextInt();
+
+c = s.nextInt();
+
+sum = a+b+c;
